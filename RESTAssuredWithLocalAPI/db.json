@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "firstName": "Mark",
+      "lastName": "Wahlberg",
+      "subjectId": 1,
+      "id": 1
+    },
+    {
+      "firstName": "Christian",
+      "lastName": "Bale",
+      "subjectId": 2,
+      "id": 2
+    },
+    {
+      "firstName": "Johnny",
+      "lastName": "Depp",
+      "subjectId": 3,
+      "id": 3
+    }
+  ],
+  "subjects": [
+    {
+      "name": "Bear Teddy",
+      "id": 1
+    },
+    {
+      "name": "The Dark Knight",
+      "id": 2
+    },
+    {
+      "name": "Caribbean of the Pirates",
+      "id": 3
+    }
+  ]
+}
